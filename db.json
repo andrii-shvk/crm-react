@@ -1,0 +1,265 @@
+{
+    "bids": [
+      {
+        "names": "Виктор Ставчук",
+        "phone": "+3-050-123-45-67",
+        "email": "sergey_volk@gmail.com",
+        "product": "course-vue",
+        "status": "complete",
+        "date": "2024-01-16T01:52:20.209Z",
+        "id": 1
+      },
+      {
+        "names": "Андрей Шевчук",
+        "phone": "+3-050-123-45-67",
+        "email": "nast_serg@gmail.com",
+        "product": "course-vue",
+        "status": "complete",
+        "date": "2024-01-16T01:52:20.406Z",
+        "id": 2
+      },
+      {
+        "names": "Андрей Шевчук",
+        "phone": "+3-050-123-45-67",
+        "email": "nast_serg@gmail.com",
+        "product": "course-js",
+        "status": "complete",
+        "date": "2024-01-16T01:52:20.541Z",
+        "id": 3
+      },
+      {
+        "names": "Андрей Шевчук",
+        "phone": "+3-050-456-77-99",
+        "email": "igor_ivanov@gmail.com",
+        "product": "course-js",
+        "status": "inwork",
+        "date": "2024-01-16T01:52:20.684Z",
+        "id": 4
+      },
+      {
+        "names": "Андрей Шевчук",
+        "phone": "+3-050-456-77-99",
+        "email": "igor_ivanov@gmail.com",
+        "product": "course-js",
+        "status": "new",
+        "date": "2024-01-16T01:52:20.822Z",
+        "id": 5
+      },
+      {
+        "names": "Илона Матвеева",
+        "phone": "+3-050-123-45-67",
+        "email": "nast_serg@gmail.com",
+        "product": "course-js",
+        "status": "new",
+        "date": "2024-01-16T01:52:21.034Z",
+        "id": 6
+      },
+      {
+        "names": "Анастасия Сергеева",
+        "phone": "+3-050-123-45-67",
+        "email": "sergey_volk@gmail.com",
+        "product": "course-php",
+        "status": "new",
+        "date": "2024-01-16T16:45:40.932Z",
+        "id": 7
+      },
+      {
+        "names": "Анастасия Сергеева",
+        "phone": "+3-050-123-45-67",
+        "email": "sergey_volk@gmail.com",
+        "product": "course-php",
+        "status": "new",
+        "date": "2024-01-16T16:45:41.042Z",
+        "id": 8
+      },
+      {
+        "names": "Анастасия Сергеева",
+        "phone": "+3-050-123-45-67",
+        "email": "sergey_volk@gmail.com",
+        "product": "course-php",
+        "status": "complete",
+        "date": "2024-01-16T16:45:41.228Z",
+        "id": 9
+      },
+      {
+        "names": "Виктор Ставчук",
+        "phone": "+3-097-555-55-55",
+        "email": "supamercron@gmail.com",
+        "product": "course-js",
+        "status": "new",
+        "date": "2024-01-16T16:45:41.411Z",
+        "id": 10
+      },
+      {
+        "names": "Виктор Ставчук",
+        "phone": "+3-097-555-55-55",
+        "email": "supamercron@gmail.com",
+        "product": "course-js",
+        "status": "new",
+        "date": "2024-01-16T16:45:41.575Z",
+        "id": 11
+      },
+      {
+        "names": "Сергей Волков",
+        "phone": "+1-757-930-93-90",
+        "email": "ilona_matv@gmail.com",
+        "product": "course-wordpress",
+        "status": "new",
+        "date": "2024-01-16T18:35:31.534Z",
+        "id": 12
+      },
+      {
+        "names": "Игорь Иванов",
+        "phone": "+1-929-561-11-88",
+        "email": "igor_ivanov@gmail.com",
+        "product": "course-wordpress",
+        "status": "new",
+        "date": "2024-01-16T18:35:33.426Z",
+        "id": 13
+      },
+      {
+        "names": "Виктор Ставчук",
+        "phone": "+3-050-123-45-67",
+        "email": "sergey_volk@gmail.com",
+        "product": "course-php",
+        "status": "new",
+        "date": "2024-01-16T18:35:34.051Z",
+        "id": 14
+      },
+      {
+        "names": "Виктор Ставчук",
+        "phone": "+1-757-555-33-44",
+        "email": "nast_serg@gmail.com",
+        "product": "course-wordpress",
+        "status": "new",
+        "date": "2024-01-16T18:58:15.719Z",
+        "id": 15
+      },
+      {
+        "names": "Виктор Ставчук",
+        "phone": "+1-757-555-33-44",
+        "email": "nast_serg@gmail.com",
+        "product": "course-wordpress",
+        "status": "inwork",
+        "date": "2024-01-16T18:58:15.938Z",
+        "id": 16
+      },
+      {
+        "names": "Сергей Волков",
+        "phone": "+1-757-930-93-90",
+        "email": "ilona_matv@gmail.com",
+        "product": "course-vue",
+        "status": "complete",
+        "date": "2024-01-16T18:58:16.134Z",
+        "id": 17
+      },
+      {
+        "names": "Jason Steithem",
+        "phone": "19297685900",
+        "email": "stet.hem@gmail.com",
+        "product": "course-php",
+        "status": "complete",
+        "date": "2024-01-16T23:46:38.541Z",
+        "id": 18
+      },
+      {
+        "names": "Андрей Шевчук",
+        "phone": "+1-929-561-11-88",
+        "email": "victor_stavchuk@gmail.com",
+        "product": "course-html",
+        "status": "complete",
+        "date": "2024-01-16T23:46:39.177Z",
+        "id": 19
+      },
+      {
+        "names": "Сергей Волков",
+        "phone": "+3-050-456-77-99",
+        "email": "victor_stavchuk@gmail.com",
+        "product": "course-js",
+        "status": "inwork",
+        "date": "2024-01-16T23:46:39.772Z",
+        "id": 20
+      },
+      {
+        "names": "Анастасия Сергеева",
+        "phone": "+3-050-456-77-99",
+        "email": "victor_stavchuk@gmail.com",
+        "product": "course-js",
+        "status": "new",
+        "date": "2024-01-16T23:55:09.357Z",
+        "id": 21
+      },
+      {
+        "names": "Анастасия Сергеева",
+        "phone": "+3-050-456-77-99",
+        "email": "victor_stavchuk@gmail.com",
+        "product": "course-js",
+        "status": "new",
+        "date": "2024-01-16T23:55:09.556Z",
+        "id": 22
+      },
+      {
+        "names": "Илона Матвеева",
+        "phone": "+3-097-555-55-55",
+        "email": "victor_stavchuk@gmail.com",
+        "product": "course-php",
+        "status": "new",
+        "date": "2024-01-16T23:55:09.779Z",
+        "id": 23
+      },
+      {
+        "names": "Сергей Волков",
+        "phone": "+1-757-930-93-90",
+        "email": "ilona_matv@gmail.com",
+        "product": "course-js",
+        "status": "new",
+        "date": "2024-01-16T23:55:12.176Z",
+        "id": 24
+      },
+      {
+        "names": "Игорь Иванов",
+        "phone": "+3-050-123-45-67",
+        "email": "supamercron@gmail.com",
+        "product": "course-js",
+        "status": "complete",
+        "date": "2024-01-16T23:55:13.008Z",
+        "id": 25
+      },
+      {
+        "names": "Андрей Шевчук",
+        "phone": "+1-929-561-11-88",
+        "email": "ilona_matv@gmail.com",
+        "product": "course-vue",
+        "status": "inwork",
+        "date": "2024-01-16T23:55:13.627Z",
+        "id": 26
+      },
+      {
+        "names": "Анастасия Сергеева",
+        "phone": "+1-757-930-93-90",
+        "email": "ilona_matv@gmail.com",
+        "product": "course-php",
+        "status": "new",
+        "date": "2024-01-17T00:34:23.528Z",
+        "id": 27
+      },
+      {
+        "names": "Андрей Шевчук",
+        "phone": "+1-757-555-33-44",
+        "email": "igor_ivanov@gmail.com",
+        "product": "course-vue",
+        "status": "new",
+        "date": "2024-01-17T00:34:23.734Z",
+        "id": 28
+      },
+      {
+        "names": "Игорь Иванов",
+        "phone": "+1-757-930-93-90",
+        "email": "nast_serg@gmail.com",
+        "product": "course-vue",
+        "status": "new",
+        "date": "2024-01-17T00:34:23.962Z",
+        "id": 29
+      }
+    ]
+  }
